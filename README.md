@@ -1,7 +1,7 @@
+```
+  N
+```
 # How to run Vitual Assistant?
-```
-- Not complete, just for fun.
-```
 
 #### To use, make sure you have successfully installed python
 ```

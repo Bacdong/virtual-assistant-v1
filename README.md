@@ -1,18 +1,29 @@
 # How to run Vitual Assistant?
 
-### *Install library:
+#### To use, make sure you have successfully installed python
+```
+if not, you can download it here: "https://www.python.org/downloads/"
 ```
 
-pip install pyttsx3
-
-pip install speechrecognition
-
-pip install pipwin
-
-pipwin install pyaudio
+### Install library:
 ```
 
-### *To run: 
+- pip install pyttsx3
+
+- pip install speechrecognition
+```
+#### For Linux:
+```
+  pip install pyaudio
+```
+#### For Windows:
+```
+- pip install pipwin
+
+- pipwin install pyaudio
+```
+
+### To run: 
 ```
 python main.py
 ```

@@ -1,5 +1,5 @@
 ```
-  * N
+- N
 ```
 # How to run Vitual Assistant?
 

@@ -1,6 +1,5 @@
-```
-- N
-```
+###### Not complete, just for fun.
+
 
 # How to run Vitual Assistant?
 

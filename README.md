@@ -1,4 +1,7 @@
 # How to run Vitual Assistant?
+```
+N
+```
 
 #### To use, make sure you have successfully installed python
 ```
@@ -29,11 +32,11 @@ python main.py
 ```
 
 
-<!-- Test case -->
+### To test:
 ```
-#### You said: "Hello"
-#### You said: "...time..."
-#### You said: "...today..."
-#### You said: "...pressident..."
-#### To stop: "...bye..." or "...goodbye..."
+- You said: "Hello"
+- You said: "...time..."
+- You said: "...today..."
+- You said: "...pressident..."
+- To stop the program: "...bye..." or "...goodbye..."
 ```

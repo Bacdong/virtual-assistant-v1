@@ -14,4 +14,4 @@ def say(robot_brain):
     robot.say(robot_brain)
     robot.runAndWait()
 
-say(robot_brain)
+# say(robot_brain)

@@ -1,38 +1,47 @@
-###### Not complete, just for fun.
+###### Not complete, just for fun. ######
 
 
-# How to run Vitual Assistant?
+# How to run Vitual Assistant? #
 
-#### To use, make sure you have successfully installed python
+#### To use, make sure you have successfully installed python ####
 ```
 if not, you can download it here: "https://www.python.org/downloads/"
 ```
 
-### Install library:
+### Install library: ###
 ```
 
 - pip install pyttsx3
 
-- pip install speechrecognition
+- pip install speechrecognition 
+  * ( if error, try again with: 
+      + sudo apt-get update && sudo apt-get install espeak
+      + sudo apt install libespeak1
+    )
 ```
-#### For Linux:
+#### For Linux: ####
 ```
   pip install pyaudio
+
+  * ( if error, try again with: 
+      - pip install wheel
+      - pip install --upgrade pyaudio
+    )
 ```
-#### For Windows:
+#### For Windows: ####
 ```
 - pip install pipwin
 
 - pipwin install pyaudio
 ```
 
-### To run: 
+### To run: ###
 ```
 python main.py
 ```
 
 
-### To test:
+### To test: ###
 ```
 - You said: "Hello"
 - You said: "...time..."

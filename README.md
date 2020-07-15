@@ -14,7 +14,7 @@ if not, you can download it here: "https://www.python.org/downloads/"
 - pip install pyttsx3
 
 - pip install speechrecognition 
-  * ( if error, try again with: 
+  * ( if error on Linux, try again with: 
       + sudo apt-get update && sudo apt-get install espeak
       + sudo apt install libespeak1
     )
@@ -49,3 +49,6 @@ python main.py
 - You said: "...pressident..."
 - To stop the program: "...bye..." or "...goodbye..."
 ```
+
+
+##### I'm Bacdongg. (author) #####

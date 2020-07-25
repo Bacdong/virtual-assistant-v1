@@ -1,14 +1,16 @@
-###### Not complete, just for fun. ######
-
+### Virtual Assistant ####
+```
+Not complete, just for fun.
+```
 
 # How to run Vitual Assistant? #
 
-#### To use, make sure you have successfully installed python ####
+### To use, make sure you have successfully installed python ###
 ```
 if not, you can download it here: "https://www.python.org/downloads/"
 ```
 
-### Install library: ###
+### Developments Installation: ###
 ```
 
 - pip install pyttsx3
